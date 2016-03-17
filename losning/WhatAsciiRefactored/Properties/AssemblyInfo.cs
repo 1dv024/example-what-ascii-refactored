@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("WhatAsciiRefactored")]
-[assembly: AssemblyDescription("Inledande programmering med C# (1DV402)")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Linnéuniversitetet")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("WhatAsciiRefactored")]
-[assembly: AssemblyCopyright("")]
+[assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a21a1dbc-6e81-4c37-a263-f39c80763631")]
+[assembly: Guid("083c03d8-cc06-4d66-a6d6-1d4dc514e74e")]
 
 // Version information for an assembly consists of the following four values:
 //
